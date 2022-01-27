@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Soy estudiante de Ingeniería de Sistemas, interesado en la reaolución de problemas por medio de la programación y las diversas tecnologías que tenemos hoy
+Soy estudiante de Ingeniería de Sistemas, interesado en la resolución de problemas por medio de la programación y las diversas tecnologías que tenemos hoy
 
 <!--
 **JuanEsteban2/JuanEsteban2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
